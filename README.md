@@ -1,1 +1,1 @@
-# angular2-helloworld
+# Angular2 - Hello World Sample
